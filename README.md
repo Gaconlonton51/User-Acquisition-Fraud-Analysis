@@ -21,7 +21,7 @@ This is a personal project I built using Power BI to practice data analysis skil
 ### 2. Fraud Detection
 - Found suspicious traffic from IPs 73487, 73516, and 5345. They generated hundreds of clicks but zero installs, which affected the overall CVR.
   
-- <img width="996" height="625" alt="Screenshot 2026-05-25 220859" src="https://github.com/user-attachments/assets/86690a9a-1e0b-4a7a-8e16-5400ae0d33af" />
+<img width="996" height="625" alt="Screenshot 2026-05-25 220859" src="https://github.com/user-attachments/assets/615180e9-613a-49ce-839e-e41e62e1b1f6" />
 
 
 ## Dashboard Snapshots
