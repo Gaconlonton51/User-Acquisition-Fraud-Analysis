@@ -20,6 +20,7 @@ This is a personal project I built using Power BI to practice data analysis skil
 
 ### 2. Fraud Detection
 - Found suspicious traffic from IPs 73487, 73516, and 5345. They generated hundreds of clicks but zero installs, which affected the overall CVR.
+  
 - Click volumes show unusual spikes during Hour 4 and Hour 23 without a matching increase in installs. Suggesting these IPs could be added to a tracking blacklist to save ad spend.
 
 ## Dashboard Snapshots
