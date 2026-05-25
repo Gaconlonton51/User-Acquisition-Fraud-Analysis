@@ -1,7 +1,5 @@
 # Mobile App User Acquisition & Fraud Analysis
 
-## Project Overview<img width="1006" height="633" alt="Screenshot 2026-05-25 215448" src="https://github.com/user-attachments/assets/0fc1db35-a817-4d30-bb6c-3d6d91519605" />
-
 This is a personal project I built using Power BI to practice data analysis skills. The main goal is to evaluate the performance of a User Acquisition (UA) campaign for a mobile app and identify potential bot traffic to support budget optimization.
 
 ## Business Objectives
@@ -25,5 +23,6 @@ This is a personal project I built using Power BI to practice data analysis skil
 - Click volumes show unusual spikes during Hour 4 and Hour 23 without a matching increase in installs. Suggesting these IPs could be added to a tracking blacklist to save ad spend.
 
 ## Dashboard Snapshots
-<img width="1006" height="633" alt="Screenshot 2026-05-25 215448" src="https://github.com/user-attachments/assets/826392b1-1f3b-4c10-868d-c93553d41b6d" />
-<img width="997" height="630" alt="Screenshot 2026-05-25 215459" src="https://github.com/user-attachments/assets/4ea9f23e-39f9-4032-8102-ac2d20e3804c" />
+<img width="996" height="619" alt="Screenshot 2026-05-25 220319" src="https://github.com/user-attachments/assets/9dc8e331-0f29-47ea-bc7b-2e06879963b5" />
+<img width="1003" height="617" alt="Screenshot 2026-05-25 220307" src="https://github.com/user-attachments/assets/1a23bfcb-d27e-444a-8feb-e3a97786871d" />
+
